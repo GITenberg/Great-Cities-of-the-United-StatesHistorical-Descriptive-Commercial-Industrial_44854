@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '42950'
     url: http://www.gutenberg.org/2009/agents/42950
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44854#Great-Cities-of-the-United-StatesHistorical-Descriptive-Commercial-Industrial
 gutenberg_issued: '2014-02-09'
 gutenberg_type: Text
 identifiers:
