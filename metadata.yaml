@@ -1,0 +1,36 @@
+_repo: Great-Cities-of-the-United-StatesHistorical-Descriptive-Commercial-Industrial_44854
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44854-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Kramer, Stephen Elliott
+    gutenberg_agent_id: '42951'
+    url: http://www.gutenberg.org/2009/agents/42951
+  - agent_name: Southworth, Gertrude Van Duyn
+    alias: Van Duyn Southworth, Gertrude
+    birthdate: 1874
+    gutenberg_agent_id: '42950'
+    url: http://www.gutenberg.org/2009/agents/42950
+description: ''
+gutenberg_issued: '2014-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44854'
+  lccn: '16006688'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'Cities and towns -- United States'
+- !lcsh 'United States -- Description and travel'
+tableOfContents: New York -- Chicago -- Philadelphia -- St. Louis -- Boston -- Cleveland
+  -- Baltimore -- Pittsburgh -- Detroit -- Buffalo -- San Francisco -- New Orleans
+  -- Washington -- Reference tables.
+title: 'Great Cities of the United States
+
+  Historical, Descriptive, Commercial, Industrial'
+url: http://www.gutenberg.org/ebooks/44854
